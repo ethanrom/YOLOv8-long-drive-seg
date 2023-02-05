@@ -1,5 +1,9 @@
-# YOLOv8-long-drive-seg
-YOLOv8 Instance segmentation in the long drive
 
-## Preview
+YOLOv8 Instance Segmentation
+
+instance segmentation on The long drive
+
+
+## Screenshots
+
 ![App Screenshot](https://i.ibb.co/7NdLpZ0/ezgif-4-7e0a657eaa.gif)
