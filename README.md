@@ -1,4 +1,5 @@
 # YOLOv8-long-drive-seg
+YOLOv8 Instance segmentation in the long drive
 
-https://user-images.githubusercontent.com/116474403/216847233-eec40952-c575-4b1d-99ce-10019a822875.mp4
-
+## Preview
+![App Screenshot](https://i.ibb.co/7NdLpZ0/ezgif-4-7e0a657eaa.gif)
